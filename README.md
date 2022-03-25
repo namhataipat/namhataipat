@@ -1,5 +1,5 @@
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yym6nwzgkcq7wf3bd6sc2gbfce&cover_image=true&bar_color=b5b5b5&bar_color_cover=false&card_width=300)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yym6nwzgkcq7wf3bd6sc2gbfce&cover_image=true&bar_color=b5b5b5&bar_color_cover=false&width=300)](https://github.com/kittinan/spotify-github-profile)
 
 
 [![Hataipat's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhataipat&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
